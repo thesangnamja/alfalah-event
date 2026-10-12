@@ -1,0 +1,34 @@
+# Local agent files and plans
+.pi/
+PLANS/
+.trash/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Dependencies and generated output
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+dist/
+build/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
