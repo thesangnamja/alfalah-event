@@ -43,6 +43,7 @@ Dokumen kerja panitia untuk rekreasi yang santai, ramah anak, dan memberi ruang 
 | --- | --- | --- |
 | Pagi | Penataan tikar dan tenda | F1, F2 |
 | 12.30–13.00 | Kedatangan dan check-in | F5 |
+| **12.45** | **Salat Zuhur berjamaah di lokasi** | — |
 | 13.00–13.05 | Pembukaan | F3 |
 | 13.05–13.15 | Tilawah | F8 |
 | 13.15–13.25 | Kultum dan pengantar tema | F8 |
