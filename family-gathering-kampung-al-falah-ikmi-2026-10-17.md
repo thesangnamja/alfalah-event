@@ -21,7 +21,6 @@ Dokumen kerja panitia untuk rekreasi yang santai, ramah anak, dan memberi ruang 
 - [7. Checklist perlengkapan](#7-checklist-perlengkapan)
 - [8. Aset dan komunikasi](#8-aset-dan-komunikasi)
   - [Draf WhatsApp](#draf-whatsapp)
-- [9. Tindak lanjut](#9-tindak-lanjut)
 
 ## 1. Ringkasan acara
 
@@ -154,11 +153,11 @@ F2 mengoordinasikan inventaris dan transportasi; F4 menyiapkan perlengkapan kons
 
 ## 8. Aset dan komunikasi
 
-| Aset | Tautan | Status |
-| --- | --- | --- |
-| Poster | [Buka poster](assets/poster.png) | Perlu revisi |
-| Banner | [Buka banner](assets/family-gathering-community-banner.png) | Bisa dipakai ulang; tanpa tanggal, waktu, atau lokasi |
-| Kode QR | [Buka kode QR](assets/minimal-black-and-white-qr-code.png) | Tujuan tautan belum diverifikasi |
+| Aset | Tautan |
+| --- | --- |
+| Poster | [Buka poster](assets/poster.png) |
+| Banner | [Buka banner](assets/family-gathering-community-banner.png) |
+| Kode QR | [Buka kode QR](assets/minimal-black-and-white-qr-code.png) |
 
 ### Draf WhatsApp
 
@@ -169,7 +168,7 @@ Assalamu’alaikum warga grup Rukun Warga Kampung AL-Falah,
 
 📅 Sabtu, 17 Oktober 2026\
 ⏰ Kumpul 12.30 · Mulai 13.00 · Selesai 17.00 KST\
-📍 Yeouido Hangang Park
+📍 Yeouido Hangang Park (dekat playground pasir anak-anak)
 
 Untuk jamaah Al-Falah, **berkeluarga maupun single**. Gratis. Ada makan bersama, ta’aruf santai, permainan, kuis, dan salat Asar.
 
@@ -185,16 +184,3 @@ Tutup **Kamis, 15 Oktober, 18.00 KST**. Bantuan pengisian: Bahy (F3). Pendaftara
 🌦️ **Hujan ringan pun batal.** Cek status di WA Jumat 20.00 dan Sabtu 09.00 KST sebelum berangkat. Dokumentasi hanya di grup internal.
 
 Sampai ketemu, insyaAllah!
-
-## 9. Tindak lanjut
-
-| Waktu | PIC | Hasil yang disiapkan |
-| --- | --- | --- |
-| Sebelum distribusi | F1 → F3 | Poster, kode QR, dan form siap; kirim pengumuman RSVP |
-| Sebelum hari-H | F1, F8 | Verifikasi titik kumpul dan pengaturan Asar; F3 membagikan pin |
-| Sebelum belanja | F1, F4, F5 | Persetujuan kas, menu, dan kebutuhan hadiah sesuai plafon |
-| Kamis, 15 Oktober, 18.00 KST | F1, F3 | Tutup form dan selaraskan rekap |
-| Setelah rekap | F4; dibantu F1, F2 | Finalkan jumlah konsumsi, belanja, dan transportasi |
-| Sebelum hari-H | F3, F5, F8, F6 | Alur MC, permainan, undian, pelaksana ibadah, dan kesiapan dokumentasi |
-
-Keputusan cuaca mengikuti [jadwal pemeriksaan](#cuaca); pelaksanaan hari-H mengikuti [rundown](#2-rundown).
